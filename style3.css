@@ -41,7 +41,7 @@ a:hover {
 }
 
 .secondimage {
-	background-image: url("./images/WebsiteFrontPage.jpg");
+	background-image: url("images/WebsiteFrontPage.jpg");
 	background-size:contain;
 	width: 1015px;
 	height: 550px;
@@ -49,19 +49,19 @@ a:hover {
 	padding-right: -20px;
 }
 .thirdimage {
-	background-image: url("./images/WebsitePage2.jpg");
+	background-image: url("images/WebsitePage2.jpg");
 	background-size:contain;
 	width: 740px;
 	height: 1200px;
 }
 .fourthimage {
-	background-image: url("./images/WebsitePage3.jpg");
+	background-image: url("images/WebsitePage3.jpg");
 	background-size:contain;
 	width: 740px;
 	height: 370px;
 }
 .fifthimage {
-	background-image: url("./images/WebsitePage4.jpg");
+	background-image: url("images/WebsitePage4.jpg");
 	background-size:contain;
 	width: 740px;
 	height: 300px;
