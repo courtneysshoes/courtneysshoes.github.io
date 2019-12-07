@@ -51,20 +51,20 @@ a:hover {
 .thirdimage {
 	background-image: url("./images/WebsitePage2.jpg");
 	background-size:contain;
-	width: 400px;
-	height: 650px;
+	width: 740px;
+	height: 1200px;
 }
 .fourthimage {
-	background-image: url("./images/.jpg");
+	background-image: url("./images/WebsitePage3.jpg");
 	background-size:contain;
-	width: 500px;
-	height: 200px;
+	width: 740px;
+	height: 370px;
 }
 .fifthimage {
-	background-image: url("./images/.jpg");
+	background-image: url("./images/WebsitePage4.jpg");
 	background-size:contain;
-	width: 500px;
-	height: 410px;
+	width: 740px;
+	height: 300px;
 }
 
 	div:hover {
