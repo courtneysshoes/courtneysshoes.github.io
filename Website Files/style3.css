@@ -20,8 +20,9 @@ label {
 	display: block;
 }
 nav {align-content: center;
-		padding-left: 450px;
-		padding-right: 450px;
+	padding-left: 500px;
+	padding-right: 500px;
+
 	}
 
 
@@ -49,10 +50,9 @@ a:hover {
 .secondimage {
 	background-image: url("images/WebsiteFrontPage.jpg");
 	background-size:contain;
-	width: 1015px;
-	height: 550px;
-	padding-left: 50px;
-	padding-right: -20px;
+	width: 962px;
+	height: 500px;
+	
 }
 .thirdimage {
 	background-image: url("images/WebsitePage2.jpg");
